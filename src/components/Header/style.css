@@ -1,0 +1,34 @@
+.header
+{
+ width: 100%;
+ padding: 25px 0;
+ background-color: orange;
+}
+
+div 
+{
+ display: inline-block; 
+ _display: inline;
+}
+
+.title 
+{
+ font-weight: bold;
+ width: 33.3%;
+ text-align: left;
+ padding: 0px 0px 0px 20px;
+}
+
+.message
+{
+ width: 33.3%;
+ text-align: center;
+}
+
+.scores
+{
+ width: 33.3%;
+ text-align: right;
+ padding: 0px 20px 0px 0px;
+
+}

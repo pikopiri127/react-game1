@@ -1,0 +1,116 @@
+[
+    {
+        "id": 1,
+        "name": "animal1",
+        "image": "/images/animals-q-c-170-170-1.png",
+        "count": 0
+    },
+    {
+        "id": 2,
+        "name": "animal2",
+        "image": "/images/animals-q-c-170-170-2.png",
+        "count": 0
+    },
+    {
+        "id": 3,
+        "name": "animal3",
+        "image": "/images/animals-q-c-170-170-3.png",
+        "count": 0
+    },
+    {
+        "id": 4,
+        "name": "animal4",
+        "image": "/images/animals-q-c-170-170-4.png",
+        "count": 0
+    },
+    {
+        "id": 5,
+        "name": "animal5",
+        "image": "/images/animals-q-c-170-170-5.png",
+        "count": 0
+    },
+    {
+        "id": 6,
+        "name": "animal6",
+        "image": "/images/animals-q-c-170-170-6.png",
+        "count": 0
+    },
+    {
+        "id": 7,
+        "name": "animal7",
+        "image": "/images/animals-q-c-170-170-7.png",
+        "count": 0
+    },
+    {
+        "id": 8,
+        "name": "animal8",
+        "image": "/images/animals-q-c-170-170-8.png",
+        "count": 0
+    },
+    {
+        "id": 9,
+        "name": "animal9",
+        "image": "/images/animals-q-c-170-170-9.png",
+        "count": 0
+    },
+    {
+        "id": 10,
+        "name": "animal10",
+        "image": "/images/animals-q-c-170-170-10.png",
+        "count": 0
+    },
+    {
+        "id": 11,
+        "name": "cat1",
+        "image": "/images/cats-q-c-170-170-1.png",
+        "count": 0
+    },
+    {
+        "id": 12,
+        "name": "cat2",
+        "image": "/images/cats-q-c-170-170-2.png",
+        "count": 0
+    },
+    {
+        "id": 13,
+        "name": "cat3",
+        "image": "/images/cats-q-c-170-170-3.png",
+        "count": 0
+    },
+    {
+        "id": 14,
+        "name": "cat4",
+        "image": "/images/cats-q-c-170-170-4.png",
+        "count": 0
+    },
+    {
+        "id": 15,
+        "name": "cat5",
+        "image": "/images/cats-q-c-170-170-5.png",
+        "count": 0
+    },
+    {
+        "id": 16,
+        "name": "cat6",
+        "image": "/images/cats-q-c-170-170-7.png",
+        "count": 0
+    },
+    {
+        "id": 17,
+        "name": "cat7",
+        "image": "/images/cats-q-c-170-170-8.png",
+        "count": 0
+    },
+    {
+        "id": 18,
+        "name": "cat8",
+        "image": "/images/cats-q-c-170-170-9.png",
+        "count": 0
+    },
+    {
+        "id": 19,
+        "name": "cat9",
+        "image": "/images/cats-q-c-170-170-10.png",
+        "count": 0
+    }
+]
