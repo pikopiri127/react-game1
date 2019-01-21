@@ -9,7 +9,7 @@ How to play this game:
 
 1. Access to https://safe-reaches-27393.herokuapp.com/
 
-![image1](https://github.com/pikopiri127/react-game1/clicky-gane-main.png)
+![image1](https://github.com/pikopiri127/react-game1/blob/master/clicky-gane-main.png)
 
 2. Click an image!
 
