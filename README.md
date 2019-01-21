@@ -15,11 +15,11 @@ How to play this game:
 
 3. If you guessed correctly then you can see this message!
 
-![image2](https://github.com/pikopiri127/react-game1/clicky-game-message1.png)
+![image2](https://github.com/pikopiri127/react-game1/blob/master/clicky-game-message1.png)
 
 4. If you guessed incorrectly then you can see this message instead!
 
-![image3](https://github.com/pikopiri127/react-game1/clicky-game-message2.png)
+![image3](https://github.com/pikopiri127/react-game1/blob/master/clicky-game-message2.png)
 
 
 ENJOY!!
